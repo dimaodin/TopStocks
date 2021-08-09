@@ -10,8 +10,6 @@
 
 ***You need to install [Node.js](https://nodejs.org/en/download/) and [NPM](https://www.npmjs.com/) first, then in order to clone the project via HTTPS, run this command:***
 
-At the root of the Project run:
-
 ```
 $> git clone https://github.com/dimaodin/topstocks.git
 ```
